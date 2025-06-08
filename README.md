@@ -1,4 +1,4 @@
 '''# ---- Configurações ----
-api_key = 'e8MqDa5CiqKbVP8rVfQSvZcAKdgYis5IKSvRiwQBrSo'
-phantom_id = '5189480125927159'
+api_key = 'Sua Api do phantom'
+phantom_id = 'seu id do site'
 '''
